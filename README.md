@@ -18,9 +18,8 @@ Southampton University
 
 Bachelor of Arts(Hons.) Archaeology: 1996— 1999
 
-Skillset
+IT Skillset 
 
-From more to less experience
 
 Ruby
 
