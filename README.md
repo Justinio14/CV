@@ -4,7 +4,6 @@ Justin Butwell
 About
 
 
-```
 ## Education
 
 ### Makers Academy, London
@@ -21,9 +20,6 @@ Bachelor of Arts(Hons.) Archaeology: 2:1
 ### Southdowns College
 - A-levels Human Biology, Sociology, Psychology
 
-```
-
-```
 ### IT Skillset
 - Ruby with the Rails and Sinatra frameworks
 - Databases using MySQL, Postgres, Active Record and DataMapper
@@ -39,16 +35,14 @@ Bachelor of Arts(Hons.) Archaeology: 2:1
 - Deployment to Heroku
 - Object oriented principles and design
 
-```
 
 ### Interests
 
+- keen sportsman who enjoys playing golf, tennis, swimming
+- attempting to learn the guitar
 
-
-```
 ### Contact
 
 - Email: jbutwell@hotmail.com
 - Github: http://github.com/Justinio14
 - CV: http://github.com/Justinio14/CV
-```
